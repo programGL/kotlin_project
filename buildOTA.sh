@@ -1,1 +1,1 @@
-echo "build success"
+gradlew accembleDebug
